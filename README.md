@@ -221,12 +221,12 @@ MIT License - see LICENSE file for details
 ## 🏆 Hackathon Information
 
 - **Event**: Hackathon 5 - CRM Digital FTE Factory
-- **Team**: [Your Team Name]
+- **Team**: Bisma Builds
 - **Repository**: https://github.com/bisma-786/Hackathon-5-CRM
 
 ## 📞 Support
 
-For support, email: [your-email@example.com]
+For support, email: builtbyher786@gmail.com
 
 ## 🙏 Acknowledgments
 
